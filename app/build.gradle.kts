@@ -89,6 +89,7 @@ dependencies {
     androidTestImplementation("androidx.compose.ui:ui-test-junit4:1.0.3")
 
     implementation("io.coil-kt:coil-compose:1.4.0")
+    implementation ("io.coil-kt:coil-compose:2.1.0")
 
 
 

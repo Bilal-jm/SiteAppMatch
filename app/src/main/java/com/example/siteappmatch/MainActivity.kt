@@ -75,10 +75,10 @@ fun MatchEnCoursScreen() {
     ) {
         MatchItem(
             team1Name = "Real Madrid",
-            team1LogoUrl = "https://upload.wikimedia.org/wikipedia/fr/5/56/Logo_Real_Madrid.svg",
+            team1LogoUrl = "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Logo_Real_Madrid.svg/1200px-Logo_Real_Madrid.svg.png",
             team1Score = 1,
             team2Name = "Paris Saint Germain",
-            team2LogoUrl = "https://upload.wikimedia.org/wikipedia/fr/a/a7/Logo_Paris_Saint-Germain.svg",
+            team2LogoUrl = "https://upload.wikimedia.org/wikipedia/fr/thumb/8/86/Paris_Saint-Germain_Logo.svg/480px-Paris_Saint-Germain_Logo.svg.png",
             team2Score = 4
         )
     }
